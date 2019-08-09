@@ -21,6 +21,7 @@ public class Application {
         for (String beanName : beanNames) {
             System.out.println(beanName);
             System.out.println("test is success+，，，，，，，，，，，，，，，，，，，，，，，");
+            System.out.println("aaaaaaaaaaaaaaaaaaaaaa");
         }
     }
 }
