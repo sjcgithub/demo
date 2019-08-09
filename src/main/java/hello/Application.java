@@ -20,6 +20,7 @@ public class Application {
         Arrays.sort(beanNames);
         for (String beanName : beanNames) {
             System.out.println(beanName);
+            System.out.println("test is success+，，，，，，，，，，，，，，，，，，，，，，，");
         }
     }
 }
